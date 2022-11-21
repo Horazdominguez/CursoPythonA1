@@ -4,9 +4,9 @@ import random
 
 valor = random.randint(1,100)
 
-print("\nDebes adivinar un numero que acabo de pensar")
+print("\nDebes adivinar un nùmero que acabo de pensar")
 
-print("\nEs un numero entre 0 y 100")
+print("\nEs un nùmero entre 0 y 100")
 
 print("\nTe aviso si estàs cerca")
 
@@ -30,4 +30,4 @@ while numero != valor:
 
 print("\nBien, Le pegaste")
 
-print("\nEl numero era", valor, "Y te costo", intentos,"intentos.")
+print("\nEl nùmero era", valor, "Y te costo", intentos,"intentos.")
